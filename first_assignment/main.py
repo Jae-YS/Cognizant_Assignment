@@ -25,6 +25,8 @@ def conditional():
 
 
 def main():
+
+    # Creating helper functions to not clutter the main function
     greet("Jae", 21, 6.1)
     arithmetic_operations(10, 5)
     conditional()
